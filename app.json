@@ -1,0 +1,8 @@
+{
+  "name": "emr-microservice-1-product",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
